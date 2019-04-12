@@ -1,7 +1,7 @@
 swagger: '2.0'
 info:
   description: PCRecruiter API
-  version: 1.0.0
+  version: 2.0.0
   title: PCRecruiter API
   contact:
     email: overflow2341313@gmail.com
